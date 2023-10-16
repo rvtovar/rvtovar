@@ -8,8 +8,8 @@ Hello there! I'm Rose, a Backend Developer at **Quickorganics** with over 5 year
 
 ## Tech Stack 🛠️
 - **Languages**: 🐍 Python, 💎 Ruby
+- **Database**: 🐘 PostgreSQL
 - **Interests**: 🤖 Machine Learning Projects on the side
-
 
 ## Get in Touch 🌐
 - 🌌 **Personal Blue Sky**: [vanica.bsky.social](https://bsky.app/profile/vanica.bsky.social)
