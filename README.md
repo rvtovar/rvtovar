@@ -5,6 +5,7 @@ Hello there! I'm Rose, a Backend Developer at **Quickorganics** with over 5 year
 ## Education & Credentials 🎓
 - 📘 **Bachelor's Degree** in Mathematics.
 - 🏆 **Certification** in Data Science.
+- Tensorflow Developer Certified
 
 ## Tech Stack 🛠️
 - **Languages**: 🐍 Python, 💎 Ruby
