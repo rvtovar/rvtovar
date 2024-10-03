@@ -1,6 +1,6 @@
 # Rose Tovar
 
-[Email](mailto:ratovar25@outlook.com) | [LinkedIn](https://www.linkedin.com/in/rvtovar) | [GitHub](https://github.com/rvtovar) | (716) 255-3048
+[Email](mailto:ratovar25@outlook.com) | [LinkedIn](https://www.linkedin.com/in/rvtovar)
 
 ---
 
